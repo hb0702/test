@@ -130,3 +130,11 @@ Detected car and pedestrian in real time (> 10HZ) using <b>LIDAR data only</b>.
     - ex)
     
             $ bag_player --file_path /home/jaeil/challenge/Didi-Training-Release-1/approach_1.bag --tracklet /home/jaeil/challenge/tracklet
+	    
+	    
+
+
+
+
+
+hope it will help you
